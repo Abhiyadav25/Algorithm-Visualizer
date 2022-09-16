@@ -1,7 +1,6 @@
 # Algorithm Visualizer
 
 This project is developed using javascript, html and CSS.
-You can view this project by clicking on this [Link](https://sanidhya2101.github.io/Algorithm_Visualizer/).
 
 ## Sorting Agorithm
 <ul>
