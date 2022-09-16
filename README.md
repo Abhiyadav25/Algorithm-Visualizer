@@ -33,13 +33,3 @@ This project is developed using javascript, html and CSS.
 </div>
 
 
-## Future Chnages
-<ul>
-  <li>Heap Sort and other Sorting Algorithm</li>
-  <li>More Pathfinding Algorithm</li>
-  <li>Tree and Graph Visualiser</li>
-
-</ul>
-
-
-
