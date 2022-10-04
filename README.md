@@ -32,7 +32,9 @@ Javascript.
 <div>
   <img src="https://github.com/Abhiyadav25/Algorithm-Visualizer/blob/master/Image/Screenshot%20(141).png" alt="Sorting" height="400dp">
 </div>
-
+<br>
+<br>
+<br>
 
 
 More Features to implement
