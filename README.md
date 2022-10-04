@@ -33,4 +33,12 @@ Javascript.
   <img src="https://github.com/Abhiyadav25/Algorithm-Visualizer/blob/master/Image/Screenshot%20(141).png" alt="Sorting" height="400dp">
 </div>
 
+More Features to implement
+<ul>
+   <li>Implement N Queen</li>
+   <li>Implement Rat in aMaze</li>
+   <li>Implement Sudoku Solver</li>
+   <li> Implement Binary tree Visualizer</li>
+</ul>   
+   
 
