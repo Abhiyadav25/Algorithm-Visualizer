@@ -23,7 +23,7 @@ This project is developed using javascript, html and CSS.
 ## ScreenShots
 
 <div>
-  <img src="./Image/Screenshot 2021-07-22 234442.png" alt="Sorting" height="400dp">
+  <img src="https://github.com/Abhiyadav25/Algorithm-Visualizer/blob/master/Image/Screenshot%20(140).png" alt="Sorting" height="400dp">
 </div>
 
 ---
