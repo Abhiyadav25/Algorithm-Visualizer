@@ -1,7 +1,6 @@
 # Algorithm Visualizer
 
 This project is developed using javascript, html and CSS.
-You can view this project by clicking on this [Link](https://sanidhya2101.github.io/Algorithm_Visualizer/).
 
 ## Sorting Agorithm
 <ul>
@@ -32,15 +31,5 @@ You can view this project by clicking on this [Link](https://sanidhya2101.github
 <div>
   <img src="./Image/Screenshot 2021-07-22 234622.png" alt="Sorting" height="400dp">
 </div>
-
-
-## Future Chnages
-<ul>
-  <li>Heap Sort and other Sorting Algorithm</li>
-  <li>More Pathfinding Algorithm</li>
-  <li>Tree and Graph Visualiser</li>
-
-</ul>
-
 
 
